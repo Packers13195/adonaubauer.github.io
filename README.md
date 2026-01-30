@@ -10,12 +10,12 @@ In June 2023, I finally decided to take advantage of the tuition assistance offe
 The capstone class is the end of the Bachelor's of Science - Computer Science degree program. 
 The importance of this class is to become prepared to enter the real world workforce as a IT professional. This began with developing the plan for the course as the course requires the student to outline a plan in line with the provided course areas and course outcomes.
 
-| Course Areas |
+# Course Areas
 | Software Engineering and Design |
 | Algorithms and Structures |
 | Databases |
 
-| Course Outcomes |
+# Course Outcomes
 | 1.	Employ strategies for building collaborative environments that enable diverse audiences to support organizational decision-making in the field of computer science |
 | 2.	Design, develop, and deliver professional-quality oral, written, and visual communications that are coherent, technically sound, and appropriately adapted to specific audiences and contexts. |
 | 3.	Design and evaluate computing solutions that solve a given problem using algorithmic principles and computer science practices and standards appropriate to its solution while managing the trade-offs involved in design choices. |
