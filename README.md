@@ -8,7 +8,7 @@
   <a href="https://packers13195.github.io/adonaubauer.github.io/conclusion">Conclusion</a>
 </div>
 
-{% include navigationmenu.html %}
+<iframe src="navigationmenu.html" style="border:none; width:100%; height:100px;"></iframe>
 
 # Introduction
 Hello, my name is Austin Donaubauer. I am an aspiring software engineer and am excited to share my journey with you all. 
