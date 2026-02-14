@@ -1,12 +1,4 @@
-<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; font-weight: bold; margin-bottom: 20px;">
-  <a href="https://packers13195.github.io/adonaubauer.github.io/">Home</a> | 
-  <a href="https://packers13195.github.io/adonaubauer.github.io/capstonecourseinfo">Capstone Course Info</a> | 
-  <a href="https://packers13195.github.io/adonaubauer.github.io/codereview">CodeReview</a> | 
-  <a href="https://packers13195.github.io/adonaubauer.github.io/enhancementone">EnhancementOne</a> | 
-  <a href="https://packers13195.github.io/adonaubauer.github.io/enhancementtwo">EnhancementTwo</a> | 
-  <a href="https://packers13195.github.io/adonaubauer.github.io/enhancementthree">EnhancementThree</a> | 
-  <a href="https://packers13195.github.io/adonaubauer.github.io/conclusion">Conclusion</a>
-</div>
+{% include navigationmenu.html %}
 
 # Enhancement Three Details and Reflection
 The third enhancement covers the database course area, and I decided that refactoring the inventory app that originally used a local sqlite database would fit this. I continued to build off my previous two enhancements for this third one as well. I began by setting up the new database which is Firebase. Firebase is a cloud-based database that offers more features and integration within a project than I could do with sqlite. 
