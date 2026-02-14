@@ -1,11 +1,11 @@
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; font-weight: bold; margin-bottom: 20px;">
   <a href="https://packers13195.github.io/adonaubauer.github.io/">Home</a> | 
+  <a href="https://packers13195.github.io/adonaubauer.github.io/capstonecourseinfo">Capstone Course Info</a> | 
   <a href="https://packers13195.github.io/adonaubauer.github.io/codereview">CodeReview</a> | 
-  <a href="">Capstone Course Info</a> | 
-  <a href="">EnhancementOne</a> | 
-  <a href="">EnhancementTwo</a> | 
-  <a href="">EnhancementThree</a> | 
-  <a href="">Conclusion</a>
+  <a href="https://packers13195.github.io/adonaubauer.github.io/capstonecourseinfo/enhancementone">EnhancementOne</a> | 
+  <a href="https://packers13195.github.io/adonaubauer.github.io/capstonecourseinfo/enhancementtwo">EnhancementTwo</a> | 
+  <a href="https://packers13195.github.io/adonaubauer.github.io/capstonecourseinfo/enhancementthree">EnhancementThree</a> | 
+  <a href="https://packers13195.github.io/adonaubauer.github.io/capstonecourseinfo/conclusion">Conclusion</a>
 </div>
 
 # Code Review Purpose
