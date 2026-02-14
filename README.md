@@ -6,6 +6,16 @@
 * [EnhancementThree]()
 * [Conclusion]()
 
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; font-weight: bold; margin-bottom: 20px;">
+  <a href="https://packers13195.github.io/adonaubauer.github.io/">Home</a> | 
+  <a href="codereview.md">CodeReview</a> | 
+  <a href="">Capstone Course Info</a> | 
+  <a href="">EnhancementOne</a> | 
+  <a href="">EnhancementTwo</a> | 
+  <a href="">EnhancementThree</a> | 
+  <a href="">Conclusion</a>
+</div>
+
 # Introduction
 Hello, my name is Austin Donaubauer. I am an aspiring software engineer and am excited to share my journey with you all. 
 My journey started way back in 2013 after graduating from Watertown High School in Wisconsin, I decided to pursue an associate degree in Mobile Application Development with emphasis in Android Development at Madison Area Technical College. Growing up I was around a lot of technology whether that be a personal computer or laptop, or even video game systems like a PlayStation 2 or a game boy advanced, and this fueled my curiosity in learning about programming. I took some basic programming courses in High School and decided mobile applications would be a cool thing to learn about.
