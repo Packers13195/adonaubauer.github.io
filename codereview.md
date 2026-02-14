@@ -1,4 +1,12 @@
-[Home](https://packers13195.github.io/adonaubauer.github.io/) | [CodeReview](codereview.md) | [Capstone Course Info]() | [EnhancementOne]() | [EnhancementTwo]() | [EnhancementThree]() | [Conclusion]()
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; font-weight: bold; margin-bottom: 20px;">
+  <a href="https://packers13195.github.io/adonaubauer.github.io/">Home</a> | 
+  <a href="codereview.md">CodeReview</a> | 
+  <a href="">Capstone Course Info</a> | 
+  <a href="">EnhancementOne</a> | 
+  <a href="">EnhancementTwo</a> | 
+  <a href="">EnhancementThree</a> | 
+  <a href="">Conclusion</a>
+</div>
 
 # Code Review Purpose
 In many workplaces there are requirements when their project teams begin developing code. The developers should adhere to company policies and standards for their code. An important area for developers to validate that they are following the standards is the Code Review. A code review is a process where another developer or developers review code before they push it to testing or production. The reviewer tries to identify bugs, logic errors, and other potential errors in the code. The importance of this is to collaborate among team members and help build appropriate code. It should focus on improving code quality between team members as well and sharing information between the team and other teams in the company. Some best practices that could be done in a code review is to limit the amount of time and lines of code to be reviewed. It is best to review only for a short time and then come back to it later to be more efficient and diligent with your review. Having multiple team members share this responsibility and not forcing the same person to review code is also important as it allows multiple people to collaborate and learn. 
