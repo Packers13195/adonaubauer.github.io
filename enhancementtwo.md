@@ -1,12 +1,4 @@
-<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; font-weight: bold; margin-bottom: 20px;">
-  <a href="https://packers13195.github.io/adonaubauer.github.io/">Home</a> | 
-  <a href="https://packers13195.github.io/adonaubauer.github.io/capstonecourseinfo">Capstone Course Info</a> | 
-  <a href="https://packers13195.github.io/adonaubauer.github.io/codereview">CodeReview</a> | 
-  <a href="https://packers13195.github.io/adonaubauer.github.io/enhancementone">EnhancementOne</a> | 
-  <a href="https://packers13195.github.io/adonaubauer.github.io/enhancementtwo">EnhancementTwo</a> | 
-  <a href="https://packers13195.github.io/adonaubauer.github.io/enhancementthree">EnhancementThree</a> | 
-  <a href="https://packers13195.github.io/adonaubauer.github.io/conclusion">Conclusion</a>
-</div>
+{% include navigationmenu.html %}
 
 # Enhancement Two Details and Reflection
 Using the Inventory Warehouse app artifact from the CS360 Mobile Architecture and Programming course for this second enhancement is what I wanted to do. I built from the redeveloped Flutter app from enhancement one and focused on developing in the course area algorithms and structures. This area could be enhanced in the inventory app for the inventory item screen. I developed a search item by name, filtering options, and sorting options. To create these features, I got the data from the database and used the data structure of list.
