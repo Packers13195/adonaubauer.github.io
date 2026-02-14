@@ -1,12 +1,4 @@
-<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; font-weight: bold; margin-bottom: 20px;">
-  <a href="https://packers13195.github.io/adonaubauer.github.io/">Home</a> | 
-  <a href="https://packers13195.github.io/adonaubauer.github.io/capstonecourseinfo">Capstone Course Info</a> | 
-  <a href="https://packers13195.github.io/adonaubauer.github.io/codereview">CodeReview</a> | 
-  <a href="https://packers13195.github.io/adonaubauer.github.io/enhancementone">EnhancementOne</a> | 
-  <a href="https://packers13195.github.io/adonaubauer.github.io/enhancementtwo">EnhancementTwo</a> | 
-  <a href="https://packers13195.github.io/adonaubauer.github.io/enhancementthree">EnhancementThree</a> | 
-  <a href="https://packers13195.github.io/adonaubauer.github.io/conclusion">Conclusion</a>
-</div>
+{% include navigationmenu.html %}
 
 # CS499 Capstone Class Overview
 The capstone class is the end of the Bachelor of Science - Computer Science degree program and the culmination of my learning journey in it. 
