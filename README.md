@@ -1,4 +1,10 @@
-* [Home](https://packers13195.github.io/adonaubauer.github.io/) * [CodeReview](codereview.md) * [Capstone Course Info]() * [EnhancementOne]() * [EnhancementTwo]() * [EnhancementThree]() * [Conclusion]()
+* [Home](https://packers13195.github.io/adonaubauer.github.io/)
+* [CodeReview](codereview.md)
+* [Capstone Course Info]()
+* [EnhancementOne]()
+* [EnhancementTwo]()
+* [EnhancementThree]()
+* [Conclusion]()
 
 # Introduction
 Hello, my name is Austin Donaubauer. I am an aspiring software engineer and am excited to share my journey with you all. 
