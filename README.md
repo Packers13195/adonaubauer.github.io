@@ -1,4 +1,4 @@
-<iframe src="navigationmenu.html"></iframe>
+{% include navigationmenu.html %}
 
 # Introduction
 Hello, my name is Austin Donaubauer. I am an aspiring software engineer and am excited to share my journey with you all. 
