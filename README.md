@@ -1,11 +1,3 @@
-* [Home](https://packers13195.github.io/adonaubauer.github.io/)
-* [CodeReview](codereview.md)
-* [Capstone Course Info]()
-* [EnhancementOne]()
-* [EnhancementTwo]()
-* [EnhancementThree]()
-* [Conclusion]()
-
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; font-weight: bold; margin-bottom: 20px;">
   <a href="https://packers13195.github.io/adonaubauer.github.io/">Home</a> | 
   <a href="codereview.md">CodeReview</a> | 
