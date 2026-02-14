@@ -1,12 +1,4 @@
-<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; font-weight: bold; margin-bottom: 20px;">
-  <a href="https://packers13195.github.io/adonaubauer.github.io/">Home</a> | 
-  <a href="https://packers13195.github.io/adonaubauer.github.io/capstonecourseinfo">Capstone Course Info</a> | 
-  <a href="https://packers13195.github.io/adonaubauer.github.io/codereview">CodeReview</a> | 
-  <a href="https://packers13195.github.io/adonaubauer.github.io/enhancementone">EnhancementOne</a> | 
-  <a href="https://packers13195.github.io/adonaubauer.github.io/enhancementtwo">EnhancementTwo</a> | 
-  <a href="https://packers13195.github.io/adonaubauer.github.io/enhancementthree">EnhancementThree</a> | 
-  <a href="https://packers13195.github.io/adonaubauer.github.io/conclusion">Conclusion</a>
-</div>
+{% include navigationmenu.html %}
 
 # Enhancement One Details and Reflection
 The artifact I selected after reviewing several projects across my educational journey was the Inventory Warehouse app which I developed in the CS360 Mobile Architecture and Programming course at Southern New Hampshire University. The app was a simple android app that allows the user to register an account, login with that account, then view inventory items, edit or delete those items, add items to a SQLite database, and it included a push notification to alert users to low quantity items. I chose this artifact due to my history and knowledge of mobile applications from my associate degree program that I completed. I am most confident in my skills and abilities in this area of computer science and felt most confident in showing this project and the enhancement of it in my ePortolio. Since the original artifact was written in java and xml, the first enhancement I planned is to use the Flutter framework and redevelop the artifact in dart language. This shows my skills in mobile application development and understanding how to utilize the Flutter framework to create a cross-platform app that can be run on both android and iOS.
