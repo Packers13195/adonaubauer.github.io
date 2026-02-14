@@ -2,10 +2,10 @@
   <a href="https://packers13195.github.io/adonaubauer.github.io/">Home</a> | 
   <a href="https://packers13195.github.io/adonaubauer.github.io/capstonecourseinfo">Capstone Course Info</a> | 
   <a href="https://packers13195.github.io/adonaubauer.github.io/codereview">CodeReview</a> | 
-  <a href="">EnhancementOne</a> | 
-  <a href="">EnhancementTwo</a> | 
-  <a href="">EnhancementThree</a> | 
-  <a href="">Conclusion</a>
+  <a href="https://packers13195.github.io/adonaubauer.github.io/enhancementone">EnhancementOne</a> | 
+  <a href="https://packers13195.github.io/adonaubauer.github.io/enhancementtwo">EnhancementTwo</a> | 
+  <a href="https://packers13195.github.io/adonaubauer.github.io/enhancementthree">EnhancementThree</a> | 
+  <a href="https://packers13195.github.io/adonaubauer.github.io/conclusion">Conclusion</a>
 </div>
 
 # CS499 Capstone Class Overview
