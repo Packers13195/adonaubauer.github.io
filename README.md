@@ -1,14 +1,4 @@
-<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; font-weight: bold; margin-bottom: 20px;">
-  <a href="https://packers13195.github.io/adonaubauer.github.io/">Home</a> | 
-  <a href="https://packers13195.github.io/adonaubauer.github.io/capstonecourseinfo">Capstone Course Info</a> | 
-  <a href="https://packers13195.github.io/adonaubauer.github.io/codereview">CodeReview</a> | 
-  <a href="https://packers13195.github.io/adonaubauer.github.io/enhancementone">EnhancementOne</a> | 
-  <a href="https://packers13195.github.io/adonaubauer.github.io/enhancementtwo">EnhancementTwo</a> | 
-  <a href="https://packers13195.github.io/adonaubauer.github.io/enhancementthree">EnhancementThree</a> | 
-  <a href="https://packers13195.github.io/adonaubauer.github.io/conclusion">Conclusion</a>
-</div>
-
-<iframe src="navigationmenu.html" style="border:none; width:100%; height:100px;"></iframe>
+<iframe src="navigationmenu.html"></iframe>
 
 # Introduction
 Hello, my name is Austin Donaubauer. I am an aspiring software engineer and am excited to share my journey with you all. 
