@@ -7,3 +7,5 @@ In many workplaces there are requirements when their project teams begin develop
 I performed a code review of the original artifact to review the inventory app I developed in the CS360 Mobile Architecture and Programming course. The inventory app is an android app that allows users to register an account, login, add, edit, delete, and view items. 
 I reviewed the java and xml code in the project and discussed my planned enhancements for my capstone project for CS499 Capstone class.
 Please click the following link to view the Code Review on youtube - [Code Review Video](https://youtu.be/SAZpxfhbdeI)
+
+[![Video Thumbnail(https://youtu.be/SAZpxfhbdeI/0.jpg)](https://youtu.be/SAZpxfhbdeI)
