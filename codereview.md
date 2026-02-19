@@ -8,11 +8,13 @@ I performed a code review of the original artifact to review the inventory app I
 I reviewed the java and xml code in the project and discussed my planned enhancements for my capstone project for CS499 Capstone class.
 Please click the following link to view the Code Review on youtube - [Code Review Video](https://youtu.be/SAZpxfhbdeI)
 
-<iframe width="560" height="315" 
-        src="[https://www.youtube.com](https://youtu.be/SAZpxfhbdeI)" 
-        title="YouTube video player" 
-        frameborder="0" 
-        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
-        referrerpolicy="strict-origin-when-cross-origin" 
-        allowfullscreen>
-</iframe>
+<div style="text-align: center;">
+    <iframe width="560" height="315" 
+            src="https://www.youtube.com" 
+            title="YouTube video player" 
+            frameborder="0" 
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+            referrerpolicy="strict-origin-when-cross-origin" 
+            allowfullscreen>
+    </iframe>
+</div>
