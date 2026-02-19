@@ -9,4 +9,4 @@ In this enhancement, I completed the planned outcome about designing and develop
 
 Dart is the coding language used to develop in the Flutter framework, so I reviewed a lot of the documentation for the different libraries to learn how to develop my app. In enhancement two and enhancement three, I will be working with this same artifact to build off of this first enhancement. This will give me more opportunities to continue using Flutter and get more experience with it.
 
-Link to GitHub repository - [EnhancementOneRepository](https://github.com/Packers13195/CS360-Mobile-Architecture-and-Programming)
+Link to GitHub repository - [EnhancementOneRepository](https://github.com/Packers13195/CS360-Mobile-Architecture-and-Programming/tree/softwareengineeringanddesignenhancement/flutter-rebuild)
