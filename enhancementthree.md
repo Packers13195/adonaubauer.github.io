@@ -13,4 +13,4 @@ I also set up the item collection which just holds the itemName and itemQuantity
 
 This last enhancement completes outcomes two, four, and five. For outcome two I have well documented code so that anyone reviewing it understands what is being done. Outcome four I demonstrate the use of Firebase in my app with both using FirebaseAuth for registration and login management and using Firestore to hold user and item collections. FirebaseAuth also provides the security necessary to handle password hashing and input validation for login and registration keeping security in mind. Security is important for everything we do as software developers and is part of what builds a strong reputation for professional development as employers are looking for security driven individuals to protect their data.
 
-Link to GitHub repository - [EnhancementThreeRepository](https://github.com/Packers13195/CS360-Mobile-Architecture-and-Programming)
+Link to GitHub repository - [EnhancementThreeRepository](https://github.com/Packers13195/CS360-Mobile-Architecture-and-Programming/tree/databases/firebasemigration)
