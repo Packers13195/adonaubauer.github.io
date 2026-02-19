@@ -1,3 +1,8 @@
+<div style="text-align: center; margin-bottom: 15px;">
+  <img src="/adonaubauer.github.io/assets/images/personal-picture.jpg" alt="Austin Donaubauer"
+       style="max-width: 250px; height: auto; border-radius: 10px;">
+</div>
+
 {% include navigationmenu.html %}
 
 # Introduction
