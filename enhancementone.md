@@ -1,3 +1,4 @@
+<head> <link href="/adonaubauer.github.io/_includes/lightbox.css" rel="stylesheet" /></head>
 {% include navigationmenu.html %}
 
 # Enhancement One Details and Reflection
@@ -10,3 +11,11 @@ In this enhancement, I completed the planned outcome about designing and develop
 Dart is the coding language used to develop in the Flutter framework, so I reviewed a lot of the documentation for the different libraries to learn how to develop my app. In enhancement two and enhancement three, I will be working with this same artifact to build off of this first enhancement. This will give me more opportunities to continue using Flutter and get more experience with it.
 
 Link to GitHub repository - [EnhancementOneRepository](https://github.com/Packers13195/CS360-Mobile-Architecture-and-Programming/tree/softwareengineeringanddesignenhancement/flutter-rebuild)
+
+<div class="gallery">
+  <a href="/adonaubauer.github.io/assets/images/enhancement1screenshots/enhancement1loginscreen.png" data-lightbox="enhancement1loginscreen" data-title="Login Screen">
+    <img src="/adonaubauer.github.io/assets/images/enhancement1screenshots/enhancement1loginscreen.png" width="200" alt="Home Screen">
+  </a>
+</div>
+
+<script src="/adonaubauer.github.io/_includes/lightbox-plus-jquery.js"></script>
