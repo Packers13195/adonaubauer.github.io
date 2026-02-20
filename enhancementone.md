@@ -18,5 +18,19 @@ Link to GitHub repository - [EnhancementOneRepository](https://github.com/Packer
     <img src="/adonaubauer.github.io/assets/images/enhancement1screenshots/enhancement1loginscreen.png" width="200" alt="Home Screen">
   </a>Enhancement One Login Screen
 </div>
+<div class="gallery-container" style="display: flex; flex-wrap: wrap; gap: 20px;">
+  
+  <div style="text-align: center; width: 200px;">
+    <a href="{{ '/assets/images/enhancement1screenshots/enhancement1loginscreen.png' | relative_url }}" 
+       data-lightbox="enhancement1" 
+       data-title="Enhancement One: Login Screen - Featuring hashed password validation.">
+      <img src="{{ '/assets/images/enhancement1screenshots/enhancement1loginscreen.png' | relative_url }}" 
+           style="width: 100%; border-radius: 8px; border: 1px solid #ddd;" 
+           alt="Login Screen">
+    </a>
+    <p style="font-size: 0.9rem; margin-top: 8px; color: #555;">Login Screen</p>
+  </div>
+
+</div>
 
 <script src="/adonaubauer.github.io/_includes/lightbox-plus-jquery.js"></script>
