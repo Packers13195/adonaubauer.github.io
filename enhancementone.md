@@ -12,8 +12,10 @@ Dart is the coding language used to develop in the Flutter framework, so I revie
 
 Link to GitHub repository - [EnhancementOneRepository](https://github.com/Packers13195/CS360-Mobile-Architecture-and-Programming/tree/softwareengineeringanddesignenhancement/flutter-rebuild)
 
+## Screenshots
 <div class="gallery">
   <a href="/adonaubauer.github.io/assets/images/enhancement1screenshots/enhancement1loginscreen.png" data-lightbox="enhancement1loginscreen" data-title="Login Screen">
+    Enhancement One Login Screen
     <img src="/adonaubauer.github.io/assets/images/enhancement1screenshots/enhancement1loginscreen.png" width="200" alt="Home Screen">
   </a>
 </div>
