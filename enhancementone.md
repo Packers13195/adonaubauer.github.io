@@ -13,22 +13,83 @@ Dart is the coding language used to develop in the Flutter framework, so I revie
 Link to GitHub repository - [EnhancementOneRepository](https://github.com/Packers13195/CS360-Mobile-Architecture-and-Programming/tree/softwareengineeringanddesignenhancement/flutter-rebuild)
 
 ## Screenshots
-<div class="gallery">
-  <a href="/adonaubauer.github.io/assets/images/enhancement1screenshots/enhancement1loginscreen.png" data-lightbox="enhancement1loginscreen" data-title="Login Screen">
-    <img src="/adonaubauer.github.io/assets/images/enhancement1screenshots/enhancement1loginscreen.png" width="200" alt="Home Screen">
-  </a>Enhancement One Login Screen
-</div>
 <div class="gallery-container" style="display: flex; flex-wrap: wrap; gap: 20px;">
   
   <div style="text-align: center; width: 200px;">
     <a href="{{ '/assets/images/enhancement1screenshots/enhancement1loginscreen.png' | relative_url }}" 
        data-lightbox="enhancement1" 
-       data-title="Enhancement One: Login Screen - Featuring hashed password validation.">
+       data-title="Enhancement One: Custom Login Screen">
       <img src="{{ '/assets/images/enhancement1screenshots/enhancement1loginscreen.png' | relative_url }}" 
            style="width: 100%; border-radius: 8px; border: 1px solid #ddd;" 
            alt="Login Screen">
     </a>
     <p style="font-size: 0.9rem; margin-top: 8px; color: #555;">Login Screen</p>
+  </div>
+
+  <div style="text-align: center; width: 200px;">
+    <a href="{{ '/assets/images/enhancement1screenshots/enhancement1registrationscreen.png' | relative_url }}" 
+       data-lightbox="enhancement1" 
+       data-title="Enhancement One: Custom Registration Screen">
+      <img src="{{ '/assets/images/enhancement1screenshots/enhancement1registrationscreen.png' | relative_url }}" 
+           style="width: 100%; border-radius: 8px; border: 1px solid #ddd;" 
+           alt="Login Screen">
+    </a>
+    <p style="font-size: 0.9rem; margin-top: 8px; color: #555;">Registration Screen</p>
+  </div>
+
+  <div style="text-align: center; width: 200px;">
+    <a href="{{ '/assets/images/enhancement1screenshots/enhancement1homescreen.png' | relative_url }}" 
+       data-lightbox="enhancement1" 
+       data-title="Enhancement One: User Home Screen">
+      <img src="{{ '/assets/images/enhancement1screenshots/enhancement1homescreen.png' | relative_url }}" 
+           style="width: 100%; border-radius: 8px; border: 1px solid #ddd;" 
+           alt="Login Screen">
+    </a>
+    <p style="font-size: 0.9rem; margin-top: 8px; color: #555;">Home Screen</p>
+  </div>
+
+  <div style="text-align: center; width: 200px;">
+    <a href="{{ '/assets/images/enhancement1screenshots/enhancement1inventoryscreennoitems.png' | relative_url }}" 
+       data-lightbox="enhancement1" 
+       data-title="Enhancement One: Inventory Screen">
+      <img src="{{ '/assets/images/enhancement1screenshots/enhancement1inventoryscreennoitems.png' | relative_url }}" 
+           style="width: 100%; border-radius: 8px; border: 1px solid #ddd;" 
+           alt="Login Screen">
+    </a>
+    <p style="font-size: 0.9rem; margin-top: 8px; color: #555;">Inventory Screen with no items</p>
+  </div>
+
+  <div style="text-align: center; width: 200px;">
+    <a href="{{ '/assets/images/enhancement1screenshots/enhancement1inventoryscreenwithitems.png' | relative_url }}" 
+       data-lightbox="enhancement1" 
+       data-title="Enhancement One: Inventory Screen">
+      <img src="{{ '/assets/images/enhancement1screenshots/enhancement1inventoryscreenwithitems.png' | relative_url }}" 
+           style="width: 100%; border-radius: 8px; border: 1px solid #ddd;" 
+           alt="Login Screen">
+    </a>
+    <p style="font-size: 0.9rem; margin-top: 8px; color: #555;">Inventory Screen with items</p>
+  </div>
+
+  <div style="text-align: center; width: 200px;">
+    <a href="{{ '/assets/images/enhancement1screenshots/enhancement1additemscreen.png' | relative_url }}" 
+       data-lightbox="enhancement1" 
+       data-title="Enhancement One: Add Item Screen">
+      <img src="{{ '/assets/images/enhancement1screenshots/enhancement1additemscreen.png' | relative_url }}" 
+           style="width: 100%; border-radius: 8px; border: 1px solid #ddd;" 
+           alt="Login Screen">
+    </a>
+    <p style="font-size: 0.9rem; margin-top: 8px; color: #555;">Add Item Screen</p>
+  </div>
+
+  <div style="text-align: center; width: 200px;">
+    <a href="{{ '/assets/images/enhancement1screenshots/enhancement1edititemscreen.png' | relative_url }}" 
+       data-lightbox="enhancement1" 
+       data-title="Enhancement One: Edit Item Screen">
+      <img src="{{ '/assets/images/enhancement1screenshots/enhancement1edititemscreen.png' | relative_url }}" 
+           style="width: 100%; border-radius: 8px; border: 1px solid #ddd;" 
+           alt="Login Screen">
+    </a>
+    <p style="font-size: 0.9rem; margin-top: 8px; color: #555;">Edit Item Screen</p>
   </div>
 
 </div>
