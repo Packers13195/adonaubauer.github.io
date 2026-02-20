@@ -15,9 +15,8 @@ Link to GitHub repository - [EnhancementOneRepository](https://github.com/Packer
 ## Screenshots
 <div class="gallery">
   <a href="/adonaubauer.github.io/assets/images/enhancement1screenshots/enhancement1loginscreen.png" data-lightbox="enhancement1loginscreen" data-title="Login Screen">
-    Enhancement One Login Screen
     <img src="/adonaubauer.github.io/assets/images/enhancement1screenshots/enhancement1loginscreen.png" width="200" alt="Home Screen">
-  </a>
+  </a>Enhancement One Login Screen
 </div>
 
 <script src="/adonaubauer.github.io/_includes/lightbox-plus-jquery.js"></script>
