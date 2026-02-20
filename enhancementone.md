@@ -32,7 +32,7 @@ Link to GitHub repository - [EnhancementOneRepository](https://github.com/Packer
        data-title="Enhancement One: Custom Registration Screen">
       <img src="{{ '/assets/images/enhancement1screenshots/enhancement1registrationscreen.png' | relative_url }}" 
            style="width: 100%; border-radius: 8px; border: 1px solid #ddd;" 
-           alt="Login Screen">
+           alt="Registration Screen">
     </a>
     <p style="font-size: 0.9rem; margin-top: 8px; color: #555;">Registration Screen</p>
   </div>
@@ -43,7 +43,7 @@ Link to GitHub repository - [EnhancementOneRepository](https://github.com/Packer
        data-title="Enhancement One: User Home Screen">
       <img src="{{ '/assets/images/enhancement1screenshots/enhancement1homescreen.png' | relative_url }}" 
            style="width: 100%; border-radius: 8px; border: 1px solid #ddd;" 
-           alt="Login Screen">
+           alt="Home Screen">
     </a>
     <p style="font-size: 0.9rem; margin-top: 8px; color: #555;">Home Screen</p>
   </div>
@@ -54,7 +54,7 @@ Link to GitHub repository - [EnhancementOneRepository](https://github.com/Packer
        data-title="Enhancement One: Inventory Screen">
       <img src="{{ '/assets/images/enhancement1screenshots/enhancement1inventoryscreennoitems.png' | relative_url }}" 
            style="width: 100%; border-radius: 8px; border: 1px solid #ddd;" 
-           alt="Login Screen">
+           alt="Inventory Screen with no items Screen">
     </a>
     <p style="font-size: 0.9rem; margin-top: 8px; color: #555;">Inventory Screen with no items</p>
   </div>
@@ -65,7 +65,7 @@ Link to GitHub repository - [EnhancementOneRepository](https://github.com/Packer
        data-title="Enhancement One: Inventory Screen">
       <img src="{{ '/assets/images/enhancement1screenshots/enhancement1inventoryscreenwithitems.png' | relative_url }}" 
            style="width: 100%; border-radius: 8px; border: 1px solid #ddd;" 
-           alt="Login Screen">
+           alt="Inventory Screen with items Screen">
     </a>
     <p style="font-size: 0.9rem; margin-top: 8px; color: #555;">Inventory Screen with items</p>
   </div>
@@ -76,7 +76,7 @@ Link to GitHub repository - [EnhancementOneRepository](https://github.com/Packer
        data-title="Enhancement One: Add Item Screen">
       <img src="{{ '/assets/images/enhancement1screenshots/enhancement1additemscreen.png' | relative_url }}" 
            style="width: 100%; border-radius: 8px; border: 1px solid #ddd;" 
-           alt="Login Screen">
+           alt="Add Item Screen">
     </a>
     <p style="font-size: 0.9rem; margin-top: 8px; color: #555;">Add Item Screen</p>
   </div>
@@ -87,7 +87,7 @@ Link to GitHub repository - [EnhancementOneRepository](https://github.com/Packer
        data-title="Enhancement One: Edit Item Screen">
       <img src="{{ '/assets/images/enhancement1screenshots/enhancement1edititemscreen.png' | relative_url }}" 
            style="width: 100%; border-radius: 8px; border: 1px solid #ddd;" 
-           alt="Login Screen">
+           alt="Edit Item Screen">
     </a>
     <p style="font-size: 0.9rem; margin-top: 8px; color: #555;">Edit Item Screen</p>
   </div>
