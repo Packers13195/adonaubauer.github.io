@@ -1,4 +1,4 @@
-<head> <link href="/adonaubauer.github.io/_includes/lightbox.css" rel="stylesheet" /></head>
+<head> <link href="/adonaubauer.github.io/assets/css/lightbox.css" rel="stylesheet" /></head>
 {% include navigationmenu.html %}
 
 # Enhancement One Details and Reflection
@@ -33,4 +33,4 @@ Link to GitHub repository - [EnhancementOneRepository](https://github.com/Packer
 
 </div>
 
-<script src="/adonaubauer.github.io/_includes/lightbox-plus-jquery.js"></script>
+<script src="/adonaubauer.github.io/assets/js/lightbox-plus-jquery.js"></script>
