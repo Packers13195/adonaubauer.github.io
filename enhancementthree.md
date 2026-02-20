@@ -1,3 +1,4 @@
+<head> <link href="/adonaubauer.github.io/assets/css/lightbox.css" rel="stylesheet" /></head>
 {% include navigationmenu.html %}
 
 # Enhancement Three Details and Reflection
@@ -14,3 +15,120 @@ I also set up the item collection which just holds the itemName and itemQuantity
 This last enhancement completes outcomes two, four, and five. For outcome two I have well documented code so that anyone reviewing it understands what is being done. Outcome four I demonstrate the use of Firebase in my app with both using FirebaseAuth for registration and login management and using Firestore to hold user and item collections. FirebaseAuth also provides the security necessary to handle password hashing and input validation for login and registration keeping security in mind. Security is important for everything we do as software developers and is part of what builds a strong reputation for professional development as employers are looking for security driven individuals to protect their data.
 
 Link to GitHub repository - [EnhancementThreeRepository](https://github.com/Packers13195/CS360-Mobile-Architecture-and-Programming/tree/databases/firebasemigration)
+
+## Screenshots
+<div class="gallery-container" style="display: flex; flex-wrap: wrap; gap: 20px;">
+  
+  <div style="text-align: center; width: 200px;">
+    <a href="{{ '/assets/images/enhancement3screenshots/enhancement3loginscreen.png' | relative_url }}" 
+       data-lightbox="enhancement3" 
+       data-title="Enhancement Three: FirebaseAuth Login Screen">
+      <img src="{{ '/assets/images/enhancement3screenshots/enhancement3loginscreen.png' | relative_url }}" 
+           style="width: 100%; border-radius: 8px; border: 1px solid #ddd;" 
+           alt="FirebaseAuth Login Screen">
+    </a>
+    <p style="font-size: 0.9rem; margin-top: 8px; color: #555;">FirebaseAuth Login Screen</p>
+  </div>
+
+  <div style="text-align: center; width: 200px;">
+    <a href="{{ '/assets/images/enhancement3screenshots/enhancement3registrationscreen.png' | relative_url }}" 
+       data-lightbox="enhancement3" 
+       data-title="Enhancement Three: FirebaseAuth Registration Screen">
+      <img src="{{ '/assets/images/enhancement3screenshots/enhancement3registrationscreen.png' | relative_url }}" 
+           style="width: 100%; border-radius: 8px; border: 1px solid #ddd;" 
+           alt="FirebaseAuth Registration Screen">
+    </a>
+    <p style="font-size: 0.9rem; margin-top: 8px; color: #555;">FirebaseAuth Registration Screen</p>
+  </div>
+
+  <div style="text-align: center; width: 200px;">
+    <a href="{{ '/assets/images/enhancement3screenshots/enhancement3adminuserhomescreen.png' | relative_url }}" 
+       data-lightbox="enhancement3" 
+       data-title="Enhancement Three: Admin Home Screen">
+      <img src="{{ '/assets/images/enhancement3screenshots/enhancement3adminuserhomescreen.png' | relative_url }}" 
+           style="width: 100%; border-radius: 8px; border: 1px solid #ddd;" 
+           alt="Admin Home Screen">
+    </a>
+    <p style="font-size: 0.9rem; margin-top: 8px; color: #555;">Admin Home Screen</p>
+  </div>
+
+  <div style="text-align: center; width: 200px;">
+    <a href="{{ '/assets/images/enhancement3screenshots/enhancement3adminmenuoptions.png' | relative_url }}" 
+       data-lightbox="enhancement3" 
+       data-title="Enhancement Three: Admin User Menu Options">
+      <img src="{{ '/assets/images/enhancement3screenshots/enhancement3adminmenuoptions.png' | relative_url }}" 
+           style="width: 100%; border-radius: 8px; border: 1px solid #ddd;" 
+           alt="Admin User Menu Options">
+    </a>
+    <p style="font-size: 0.9rem; margin-top: 8px; color: #555;">Admin Menu Options</p>
+  </div>
+
+  <div style="text-align: center; width: 200px;">
+    <a href="{{ '/assets/images/enhancement3screenshots/enhancement3adminusermanagementscreen.png' | relative_url }}" 
+       data-lightbox="enhancement3" 
+       data-title="Enhancement Three: Admin User Management Screen">
+      <img src="{{ '/assets/images/enhancement3screenshots/enhancement3adminusermanagementscreen.png' | relative_url }}" 
+           style="width: 100%; border-radius: 8px; border: 1px solid #ddd;" 
+           alt="Admin User Management Screen">
+    </a>
+    <p style="font-size: 0.9rem; margin-top: 8px; color: #555;">Admin User Manage Screen</p>
+  </div>
+
+  <div style="text-align: center; width: 200px;">
+    <a href="{{ '/assets/images/enhancement3screenshots/enhancement3adminroleinventoryscreen.png' | relative_url }}" 
+       data-lightbox="enhancement3" 
+       data-title="Enhancement Three: Admin Inventory Screen">
+      <img src="{{ '/assets/images/enhancement3screenshots/enhancement3adminroleinventoryscreen.png' | relative_url }}" 
+           style="width: 100%; border-radius: 8px; border: 1px solid #ddd;" 
+           alt="Admin Inventory Screen">
+    </a>
+    <p style="font-size: 0.9rem; margin-top: 8px; color: #555;">Admin Inventory Screen</p>
+  </div>
+
+  <div style="text-align: center; width: 200px;">
+    <a href="{{ '/assets/images/enhancement3screenshots/enhancement3userrolehomescreen.png' | relative_url }}" 
+       data-lightbox="enhancement3" 
+       data-title="Enhancement Three: User Home Screen">
+      <img src="{{ '/assets/images/enhancement3screenshots/enhancement3userrolehomescreen.png' | relative_url }}" 
+           style="width: 100%; border-radius: 8px; border: 1px solid #ddd;" 
+           alt="User Home Screen">
+    </a>
+    <p style="font-size: 0.9rem; margin-top: 8px; color: #555;">User Home Screen</p>
+  </div>
+
+  <div style="text-align: center; width: 200px;">
+    <a href="{{ '/assets/images/enhancement3screenshots/enhancement3useriteminventoryscreen.png' | relative_url }}" 
+       data-lightbox="enhancement3" 
+       data-title="Enhancement Three: User Inventory Screen">
+      <img src="{{ '/assets/images/enhancement3screenshots/enhancement3useriteminventoryscreen.png' | relative_url }}" 
+           style="width: 100%; border-radius: 8px; border: 1px solid #ddd;" 
+           alt="User Inventory Screen">
+    </a>
+    <p style="font-size: 0.9rem; margin-top: 8px; color: #555;">User Inventory Screen</p>
+  </div>
+
+  <div style="text-align: center; width: 200px;">
+    <a href="{{ '/assets/images/enhancement3screenshots/enhancement3readonlyrolehomescreen.png' | relative_url }}" 
+       data-lightbox="enhancement3" 
+       data-title="Enhancement Three: Read Only User Home Screen">
+      <img src="{{ '/assets/images/enhancement3screenshots/enhancement3readonlyrolehomescreen.png' | relative_url }}" 
+           style="width: 100%; border-radius: 8px; border: 1px solid #ddd;" 
+           alt="Read Only User Home Screen">
+    </a>
+    <p style="font-size: 0.9rem; margin-top: 8px; color: #555;">Read Only User Home Screen</p>
+  </div>
+
+  <div style="text-align: center; width: 200px;">
+    <a href="{{ '/assets/images/enhancement3screenshots/enhancement3readonlyroleinventoryscreen.png' | relative_url }}" 
+       data-lightbox="enhancement3" 
+       data-title="Enhancement Three: Read Only User Inventory Screen">
+      <img src="{{ '/assets/images/enhancement3screenshots/enhancement3readonlyroleinventoryscreen.png' | relative_url }}" 
+           style="width: 100%; border-radius: 8px; border: 1px solid #ddd;" 
+           alt="Read Only User Inventory Screen">
+    </a>
+    <p style="font-size: 0.9rem; margin-top: 8px; color: #555;">Read Only User Inventory Screen</p>
+  </div>
+
+</div>
+
+<script src="/adonaubauer.github.io/assets/js/lightbox-plus-jquery.js"></script>
